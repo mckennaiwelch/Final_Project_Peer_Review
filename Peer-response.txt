@@ -1,0 +1,9 @@
+Improvements to make: 
+  -Add my images files into the folder, which will allow them to show up
+  -! at the begging of my HTML which would allow for the upload of material
+  -Syntax errors in HTML
+
+Improvments made: 
+  - I added my image files for my website into the folder
+  - Added the ! to the beggining of my HTML
+  -Reread my HTML to look for syntax errors, and corrected the ones that I could spot

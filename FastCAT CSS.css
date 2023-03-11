@@ -1,0 +1,74 @@
+/* custom property */
+
+
+/* the styles for the elements */
+body {
+	font-family: Arial;
+}
+
+/* the styles for the header */
+header h1 {
+    font-size: 175%;
+    border-bottom: 3px, #ffc0cb;
+}
+
+header h2 {
+	font-size: 175%;
+	border-bottom: 3px, #BF40BF;
+}
+header h3 {
+	font-size: 130%;
+	font-style: italic;
+}
+header img {
+	padding: 10px;
+}
+.shadow {
+	text-shadow: 2px 2px 2px var(--global-color-1);
+}
+/* the styles for the main content */
+main {
+	clear: left;
+	padding-left: 30px;
+	padding-right: 30px
+}
+main h1 {
+	font-size: 150%;
+	padding-bottom: 2ems;
+	Padding-top: 1.5ems
+}
+main h2 {
+	color: var(--global-color-1);
+	font-size: 130%;
+	padding: .5em 0 .25em 0;
+}
+main h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+main img {
+	padding-bottom: 1em;
+}
+main p {
+	padding-bottom: .5em;
+}
+main blockquote {
+	padding: 0 2em;
+	font-style: italic;
+}
+main ul {
+	padding: 0 0 .25em 1.25em;
+}
+main li {
+	padding-bottom: .35em;
+}
+
+/* the styles for the footer */
+footer p {
+	text-align: center;
+	padding: 1em 0;
+	border-bottom-color: #931420;
+	color:#fffded
+}
+
+#nav_menu: :vertical;
